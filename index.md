@@ -20,9 +20,9 @@ Want to get involved?
 
 The [Wineskin](https://github.com/WineskinCommunity/Wineskin) repository contains the source code for the Wineskin launcher and wrapper app. It is currently tracking changes from the following upstream repositories:
 
-* https://sourceforge.net/projects/wineskin/
-* https://github.com/vitor251093/wineskin
-* https://github.com/Gcenx/wineskin
+* [https://sourceforge.net/projects/wineskin/](https://sourceforge.net/projects/wineskin/)
+* [https://github.com/vitor251093/wineskin](https://github.com/vitor251093/wineskin)
+* [https://github.com/Gcenx/wineskin](https://github.com/Gcenx/wineskin)
 
 ### Website
 

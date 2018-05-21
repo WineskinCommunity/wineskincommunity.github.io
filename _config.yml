@@ -1,5 +1,6 @@
 title: Wineskin Community
 description: Community fork of Wineskin to modernize the development workflow.
+repository_url: https://github.com/WineskinCommunity/Wineskin
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
