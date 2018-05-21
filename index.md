@@ -2,122 +2,38 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+[Wineskin Community](https://github.com/WineskinCommunity/Wineskin) is an ideally temporary fork of [Wineskin](http://wineskin.urgesoftware.com/tiki-index.php) with the intention of modernizing the development workflow and making it easier for new developers to join and maintain the code together. 
 
-[Link to another page](./another-page.html).
+[Continuous integration](https://travis-ci.org/WineskinCommunity/Wineskin) will be used to automate the build and release process. This will help end users get faster access to bug fixes and new features, and reduce the friction on developers for drafting new releases.
 
-There should be whitespace between paragraphs.
+Following the success of the [Moya contributor guidelines](https://github.com/Moya/contributors/blob/0d5e80682b2377bdca72585eda9ce83467bee3c4/README.md), new contributors will be granted commit access early and often. To maintain code quality, merging code into the master branch will need to pass continuous integration checks and require code review from at least one other project member.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## Download
 
-# Header 1
+Automated builds are not available at this time. Check back another time!
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+## Contributing
 
-## Header 2
+Want to get involved?
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+### Wineskin
 
-### Header 3
+The [Wineskin](https://github.com/WineskinCommunity/Wineskin) repository contains the source code for the Wineskin launcher and wrapper app. It is currently tracking changes from the following upstream repositories:
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+* https://sourceforge.net/projects/wineskin/
+* https://github.com/vitor251093/wineskin
+* https://github.com/Gcenx/wineskin
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+### Website
 
-#### Header 4
+[This repository](https://github.com/WineskinCommunity/wineskincommunity.github.io) contains the source code for the [wineskin.app](https://wineskin.app/) website. It's a very simple static website hosted for free by [GitHub Pages](https://pages.github.com/), intended to be easy to modify and require minimal maintenance.
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+## Resources
 
-##### Header 5
+Here are some helpful links:
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+* [Wineskin](http://wineskin.urgesoftware.com/tiki-index.php) - official upstream project website
+* [Wineskin Source](https://sourceforge.net/projects/wineskin/) - original Wineskin SourceForge page
+* [WineHQ](http://www.winehq.org/) - Wine website
+* [PortingTeam](http://portingteam.com/frontpage) - website dedicated to porting Windows games to macOS
+* [PortingKit](http://portingkit.com/en/) - Utility to help create Wineskin wrappers
